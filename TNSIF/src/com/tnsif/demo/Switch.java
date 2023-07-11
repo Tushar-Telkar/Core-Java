@@ -4,7 +4,7 @@ public class Switch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		char ch='d';
+		char ch='d'; 
 		switch(ch)
 		{
 		case 'l':
