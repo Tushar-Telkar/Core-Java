@@ -13,6 +13,9 @@ public class OverloadingDemo {
 		
 		Point p2=new Point(3,4);
 		System.out.println(p2);
+		
+		Addition add=new Addition();
+		add.addition(15, 42);
 	}
 
 }
