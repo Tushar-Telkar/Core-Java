@@ -6,7 +6,7 @@ public class AbstractionDemo {
 		Square s=new Square();
 		s.calArea();
 		s.show();
-
+		
 		Rectangle r=new Rectangle();
 		r.calArea();
 		r.show();
